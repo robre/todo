@@ -6,3 +6,7 @@ functionalities:
 - add new items
 - delete items
 
+Demo:
+
+![](/demo.gif)
+
